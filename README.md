@@ -7,7 +7,7 @@ sd-mux and the SDWire product were developed to aid in Tizen development. The de
 More infomration can be found on the [Tizen wiki](https://wiki.tizen.org/SD_MUX).
 
 ## Hardware
-SDWire is the most recent sd-mux product. A company called 3mbed is a distributor manufacturing these devices. You can find SDWire and other embedded tools on their (store front)[https://3mdeb.com/shop/open-source-hardware/open-source-hardware-3mdeb/sdwire/] or on their Tindie.
+SDWire is the most recent sd-mux product. A company called 3mbed is a distributor manufacturing these devices. You can find SDWire and other embedded tools on their [store front](https://3mdeb.com/shop/open-source-hardware/open-source-hardware-3mdeb/sdwire/) or on their Tindie.
 
 ## Tooling
 This tool is based on the existing CLI tool for SDWire called [sd-mux-ctrl](https://cgit.freebsd.org/ports/tree/devel/sd-mux-ctrl).
